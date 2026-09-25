@@ -8,13 +8,13 @@ category: past
 related_publications: false
 ---
 
-**Full title:** DUSTBUSTERS (Dust and gas in planet forming discs)
-**Funding:** H2020-EU.1.3. - EXCELLENT SCIENCE - Marie Skłodowska-Curie Actions
+**Full title:** DUSTBUSTERS (Dust and gas in planet forming discs)  
+**Funding:** H2020-EU.1.3. - EXCELLENT SCIENCE - Marie Skłodowska-Curie Actions  
 **Period:** 2019-2024  
-**PI:** G. Lodato
-**Research institutes:** Università degli Studi di Milano (Italy), Ecole Normale Superieur de Lyon (France), European Southern Observatory (Germany), University of Cambridge (UK), Leicester University (UK), Monash University (Australia), University of Arizona (USA), University of Hawaii (USA), Universidad de Chile (Chile), Pontificia Universidad Catolica de Chile (Chile)
-**Role:** PhD secondment at Monash University (Australia) for 3 months
-**Webpage:** [DUSTBUSTERS project page](https://dustbusters.fisica.unimi.it/)
+**PI:** G. Lodato  
+**Research institutes:** Università degli Studi di Milano (Italy), Ecole Normale Superieur de Lyon (France), European Southern Observatory (Germany), University of Cambridge (UK), Leicester University (UK), Monash University (Australia), University of Arizona (USA), University of Hawaii (USA), Universidad de Chile (Chile), Pontificia Universidad Catolica de Chile (Chile)  
+**Role:** PhD secondment at Monash University (Australia) for 3 months  
+**Webpage:** [DUSTBUSTERS project page](https://dustbusters.fisica.unimi.it/)  
 
 ### Description
 
