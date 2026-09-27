@@ -27,7 +27,6 @@ cv:
           transformers) for SBRT.
         highlights:
           - "Positions funded by: IPMN (PNRR, 2026-present); MIKAPOCo (AIRC, UniSR, 2025); PerPlanRT (EU, 2021-2024)"
-          - "Ongoing collaborations: C. Fiorino (supervisor), Prof. R. Jeraj (Ljubljana, Madison), L. Placidi (Gemelli), T. Rancati (INT), Prof. S. Carrazza (UniMi), Prof. M. Potenza (UniMi)"
           - "Scientific visitor at University of Ljubljana (May 2023), with Prof. R. Jeraj and L. Rivetti"
 
       - company: ATG Artificial Intelligence Srl
@@ -93,14 +92,6 @@ cv:
         end_date: 2014-09
         summary: 'Project: "Echelle Spectroscopy with SOPHIE of HD123351". Advisor: Dr. M. Steffen.'
 
-      - company: International Fair (Meeting of Rimini)
-        position: Associate Editor of scientific outreach exhibitions
-        start_date: 2014-02
-        end_date: 2018-06
-        summary: >
-          Two scientific outreach exhibitions, "Explorers of the Solar System" and "Exoplanets", presented at an
-          international fair visited by more than 800,000 people each year.
-
     Education:
       - institution: University of Milan
         area: Physics, Astrophysics and Applied Physics
@@ -140,9 +131,14 @@ cv:
         end_date: 2009
 
     Honors and Awards:
-      - title: ESTRO Physics Workshop 2025
+      - title: Selected participant, ESTRO Physics Workshop 2026
+        date: 2026-10
+        awarder: ESTRO, Prague, Czech Republic
+        summary: "RODIN: Radiation Oncology Data Interoperability Network Enabling an AI and Digital Twins Driven Future"
+      - title: Selected participant, ESTRO Physics Workshop 2025
         date: 2025-10
-        summary: "Awarded participation: Towards the Use of Probabilities for Treatment Prescription, Optimisation, and Evaluation of Radiation Treatment Plans."
+        awarder: ESTRO, Toulouse, France
+        summary: "Towards the Use of Probabilities for Treatment Prescription, Optimisation, and Evaluation of Radiation Treatment Plans"
       - title: PI of accepted SPHERE proposal (10h)
         date: 2018
         summary: '"Confirming the nature of recently discovered low-mass companions to the five nearby Herbig stars"'
@@ -167,18 +163,8 @@ cv:
       - title: STScI Research scholar
         date: 2015
 
-    Grants (collaborator):
-      - bullet: "BREASTOX: Reducing toxicity after breast cancer radiotherapy through predictive models and care personalization (AIRC)"
-      - bullet: "TETRIS: Risk assessment tools for severe side effects after breast radiotherapy: radiation safety through biological extended models and digital twins (EU)"
-      - bullet: "AI-based segmentation of the CTV in breast radiotherapy: exploration of scalable models, including intra- and inter-center probability maps (Ministry of Health, CCM 2024)"
-      - bullet: "INCITE: Integration of multiomics markers for invasive IPMNs identification through the set-up of the INvasive Cyst Biomarkers detection consortium (PNRR)"
-      - bullet: "MIKAPOCo: Improving the quality of radiotherapy by multi-institution knowledge-based planning optimization models (AIRC IG 23150)"
-      - bullet: "PerPlanRT: Personalized planning in radiotherapy through integrative modeling of local dose effect and adapted sub-organs constraints (EU, ERAPERMED2020-110)"
-
-    Mentoring:
-      - bullet: "Supervision of 1 bachelor, 2 master and 2 medical physics specialization theses on DL segmentation models comparison, probabilistic map inter-center validation, and cardiac toxicity prediction via DL models comparison."
-
     Talks and Conference Contributions:
+      - bullet: '**Sept. 2026**, Oral presentation, ECMP 2026, Valencia: "AI-based probabilistic CTV breast maps incorporating Inter-Observer Variability validated clinically"'
       - bullet: '**May 2026**, Proffered Paper talk, ESTRO 2026, Stockholm: "Clinical validation of AI-based probabilistic CTV breast maps incorporating Inter-Observer Variability"'
       - bullet: '**May 2026**, Poster, ESTRO 2026, Stockholm: "Optimizing deep ensemble models for probabilistic CTV breast segmentation"'
       - bullet: '**Nov. 2025**, Internal seminar, HSR radiotherapy clinical cases, Milan: "Probability CTV breast map: training and clinical internal validation of an in-house model"'
@@ -222,6 +208,7 @@ cv:
       - bullet: '**April 2022**, Outreach talk: "Insights on planet formation", Milan'
       - bullet: "**April 2019**, Member of the LOC, DUST BUSTERS kick-off meeting, University of Milan"
       - bullet: '**Oct. 2018**, Member of the LOC, "Take a Closer Look. The innermost region of protoplanetary discs and its connection to the origin of planets", Munich-Garching'
+      - bullet: '**2014-2018**, Associate Editor of scientific outreach exhibitions, International Fair (Meeting of Rimini): two exhibitions, "Explorers of the Solar System" and "Exoplanets", presented at an international fair visited by more than 800,000 people each year'
 
     Skills:
       - name: Medical imaging pipelines (pymaitre, github.com/pymaitre)

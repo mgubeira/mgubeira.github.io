@@ -7,6 +7,23 @@ nav: true
 nav_order: 4
 ---
 
+{% comment %} GitHub users section hidden for now
+{% if site.data.repositories.github_users %}
+
+## GitHub users
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
+</div>
+
+---
+
+{% endif %}
+
+{% endcomment %}
+
 ## mAItre
 
 <a href="https://github.com/pymaitre"><img src="/assets/img/pymaitre_logo.png" alt="mAItre logo" style="width: 90px;"></a>
@@ -27,4 +44,15 @@ Development of medical pipelines on GitHub: [pymaitre](https://github.com/pymait
 - **medicalAI**: database pre-processing: cleaning and features selection (e.g. bootstrap or backward feature selection); simple AI models for training and prediction; automatic saving plots and and model output storage (via excel/SQL; e.g., ROC, PR, calibration map, SHAP).
 - **medicalDL**: more advanced model's implementation (es. lightGBM) for training and predictions.
 
----
+{% comment %} GitHub repositories cards hidden for now
+{% if site.data.repositories.github_repos %}
+
+## GitHub Repositories
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+{% endcomment %}

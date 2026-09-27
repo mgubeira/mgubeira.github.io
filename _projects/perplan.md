@@ -7,8 +7,8 @@ category: past
 related_publications: false
 ---
 
-**Full title:** Multidisciplinary research projects on personalized medicine: pre-/clinical research, big data and ICT, implementation and user's perspective  
-**Funding:** FRRB, ERA PerMed (GA 779282)  
+**Full title:** PerPlanRT: Personalized planning in radiotherapy through integrative modeling of local dose effect and adapted sub-organs constraints  
+**Funding:** FRRB, ERA PerMed (GA 779282, ERAPERMED2020-110)  
 **Period:** 2022-2024  
 **WP PI:** C. Fiorino
 

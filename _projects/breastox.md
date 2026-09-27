@@ -7,6 +7,7 @@ category: ongoing
 related_publications: false
 ---
 
+**Full title:** Reducing toxicity after breast cancer Radiotherapy through predictive models and care personalization  
 **Funding:** AIRC grant  
 **Period:** 2026-2030  
 **PI:** C. Fiorino
