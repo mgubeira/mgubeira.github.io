@@ -1,0 +1,46 @@
+/*******************************************************************************
+ * Personal customizations
+ * Palette from project logos: navy #1D2E41, orange #F24B17, amber #F8AF05
+ ******************************************************************************/
+
+$navy: #1d2e41;
+$orange: #f24b17;
+$amber: #f8af05;
+
+/* Project and thesis cards: colored top border, alternating orange/amber */
+.projects .card {
+  border-top: 4px solid $orange;
+}
+
+.projects .col:nth-child(even) .card {
+  border-top-color: $amber;
+}
+
+/* Navy navigation bar, light theme only */
+html[data-theme="light"],
+html:not([data-theme]) {
+  .navbar.navbar-light {
+    background-color: $navy;
+    border-bottom: none;
+    opacity: 1;
+
+    .navbar-brand,
+    .navbar-brand a,
+    .navbar-nav .nav-item .nav-link,
+    #light-toggle,
+    #light-toggle i,
+    .navbar-brand.social a {
+      color: #ffffff;
+    }
+
+    .navbar-nav .nav-item .nav-link:hover,
+    .navbar-nav .nav-item.active > .nav-link,
+    .navbar-nav .nav-item.active > .nav-link:hover {
+      color: $amber;
+    }
+
+    .navbar-toggler .icon-bar {
+      background-color: #ffffff;
+    }
+  }
+}

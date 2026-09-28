@@ -3,7 +3,7 @@ layout: page
 title: AI-Flopp
 description: Ricerca Finalizzata, 2023-2026
 importance: 6
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

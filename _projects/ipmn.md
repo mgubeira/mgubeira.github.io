@@ -3,7 +3,7 @@ layout: page
 title: IPMN (INCITE)
 description: PNRR
 importance: 4
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

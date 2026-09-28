@@ -3,7 +3,7 @@ layout: page
 title: MIKAPOCo
 description: AIRC grant IG 23150, 2020-2025
 importance: 1
-category: past
+category: Past
 related_publications: false
 ---
 

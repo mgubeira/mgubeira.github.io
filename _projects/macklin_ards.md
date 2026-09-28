@@ -3,7 +3,7 @@ layout: page
 title: MACKLIN ARDS
 description: NextGenerationEU (PNRR) and Ricerca Finalizzata, 2023-2026
 importance: 5
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Senior AI Researcher & Physicist, <a href='https://www.linkedin.com/company/mp-dream-group/'>MP-DReAM Group</a>, <a href='https://www.hsr.it'>IRCCS Ospedale San Raffaele</a>, Milan
 

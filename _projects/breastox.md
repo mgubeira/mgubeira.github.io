@@ -3,7 +3,7 @@ layout: page
 title: BREASTOX
 description: AIRC grant, 2026-2030
 importance: 1
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

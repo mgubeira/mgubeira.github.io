@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: Software and medical imaging pipelines developed on GitHub.
 nav: true
 nav_order: 4

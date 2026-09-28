@@ -4,7 +4,7 @@ img: assets/img/projects/dustbusters.png
 title: DUSTBUSTERS
 description: H2020-EU.1.3. - EXCELLENT SCIENCE - Marie Skłodowska-Curie Actions, 2019-2024
 importance: 3
-category: past
+category: Past
 related_publications: false
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: IHU-WPRT
 description: AIRC grant, 2014-present
 importance: 7
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

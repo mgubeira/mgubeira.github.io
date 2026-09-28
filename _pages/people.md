@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: People
 description: Ongoing collaborators and students.
 nav: true
 nav_order: 7

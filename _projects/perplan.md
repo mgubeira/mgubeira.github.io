@@ -3,7 +3,7 @@ layout: page
 title: PerPlan
 description: FRRB, ERA PerMed, 2022-2024
 importance: 2
-category: past
+category: Past
 related_publications: false
 ---
 

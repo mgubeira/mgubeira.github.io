@@ -1,6 +1,6 @@
 ---
 layout: page
-title: open theses
+title: Open theses
 permalink: /theses/
 description: Thesis projects currently available. Each thesis is a specific 6 to 12 month block within one of the larger research projects.
 nav: true

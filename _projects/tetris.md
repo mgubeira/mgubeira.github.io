@@ -4,7 +4,7 @@ img: assets/img/projects/tetris_logo.png
 title: TETRIS
 description: EU project (Euratom), 2024-2027
 importance: 3
-category: ongoing
+category: Ongoing
 related_publications: false
 ---
 

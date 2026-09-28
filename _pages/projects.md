@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Ongoing and past research projects and collaborations.
 nav: true
 nav_order: 3
-display_categories: [ongoing, past]
+display_categories: [Ongoing, Past]
 horizontal: false
 ---
 
