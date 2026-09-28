@@ -29,7 +29,7 @@ nav_order: 7
 
 ### Medical Physics Specialization students
 <!-- - **Name Surname**, Medical Physics Specialization, University of Milan. Thesis: "Title". -->
--**Bianca Bordigoni**, Medical Physics Specialization, University of Milan. Thesis: "Robust Probabilistic Breast CTV Maps from Multi-Institutional Data accounting for Inter-Institutional Variability".  
+- **Bianca Bordigoni**, Medical Physics Specialization, University of Milan. Thesis: "Robust Probabilistic Breast CTV Maps from Multi-Institutional Data accounting for Inter-Institutional Variability".  
 
 ## Former students (External supervisor)
 <!-- Format: - **Name Surname**, role, university (year). Now: current position. -->
