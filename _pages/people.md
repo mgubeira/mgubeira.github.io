@@ -20,7 +20,7 @@ nav_order: 7
 
 ### PhD students external collaboration
 <!-- Format: - **Name Surname**, degree, university. Thesis: "Title". -->
-- Ilamparithi Balasubramanian, PhD in Physics, Faculty of Mathematics and Physics, University of Ljubljana, Project: "Incorporating probabilistic maps on CTV breast inside a probabilistic planning system". Internal Advisor: R. Jeraj.  
+- **Ilamparithi Balasubramanian**, PhD in Physics, Faculty of Mathematics and Physics, University of Ljubljana, Project: "Incorporating probabilistic maps on CTV breast inside a probabilistic planning system". Internal Advisor: R. Jeraj.  
 
 ### MSc students
 <!-- - **Name Surname**, MSc in Physics, University of Milan. Thesis: "Title". -->
