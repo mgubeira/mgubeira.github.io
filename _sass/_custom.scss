@@ -1,26 +1,42 @@
+@use "sass:list";
 /*******************************************************************************
  * Personal customizations
- * Palette from project logos: navy #1D2E41, orange #F24B17, amber #F8AF05
+ * Colors from the GitHub brand Security Theme palette
+ * (https://brand.github.com/foundations/color)
  ******************************************************************************/
 
-$navy: #1d2e41;
-$orange: #f24b17;
-$amber: #f8af05;
+$security-blue: #3094ff;
+$blue-3: #1a61fe;
+$blue-6: #001c4d;
 
-/* Project and thesis cards: colored top border, alternating orange/amber */
+/* Links in Security Blue, light and dark themes */
+:root,
+html[data-theme="light"],
+html[data-theme="dark"] {
+  --global-theme-color: #{$security-blue};
+  --global-hover-color: #{$security-blue};
+}
+
+/* Project and thesis cards: colored top border, cycling in this order:
+   Lime 3, Lime 4, Lime 5, Lime 6, Blue 5, Blue 3, Security Blue */
+$card-colors: #d8bd0e, #db9d00, #d67200, #703100, #212183, #1a61fe, #3094ff;
+
 .projects .card {
-  border-top: 4px solid $orange;
+  border-top: 4px solid list.nth($card-colors, 1);
 }
 
-.projects .col:nth-child(even) .card {
-  border-top-color: $amber;
+@for $i from 1 through list.length($card-colors) {
+  .projects .col:nth-child(#{list.length($card-colors)}n + #{$i}) .card {
+    border-top-color: list.nth($card-colors, $i);
+  }
 }
 
-/* Navy navigation bar, light theme only */
+/* Navigation bar in Blue 6 with white text, light theme only.
+   Active page (and hover): white, bold, underlined in Blue 3 */
 html[data-theme="light"],
 html:not([data-theme]) {
   .navbar.navbar-light {
-    background-color: $navy;
+    background-color: $blue-6;
     border-bottom: none;
     opacity: 1;
 
@@ -33,10 +49,22 @@ html:not([data-theme]) {
       color: #ffffff;
     }
 
-    .navbar-nav .nav-item .nav-link:hover,
+    .navbar-nav .nav-item .nav-link:hover {
+      color: #ffffff;
+      text-decoration: underline;
+      text-decoration-color: $blue-3;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 6px;
+    }
+
     .navbar-nav .nav-item.active > .nav-link,
     .navbar-nav .nav-item.active > .nav-link:hover {
-      color: $amber;
+      color: #ffffff;
+      font-weight: bolder;
+      text-decoration: underline;
+      text-decoration-color: $blue-3;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 6px;
     }
 
     .navbar-toggler .icon-bar {
