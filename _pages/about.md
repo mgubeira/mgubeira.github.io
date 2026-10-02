@@ -6,7 +6,7 @@ subtitle: Senior AI Researcher & Physicist, <a href='https://www.linkedin.com/co
 
 profile:
   align: right
-  image: PICTURE_UBEIRA.jpg
+  image: PICTURE_UBEIRA.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>ubeira.mariagiulia@hsr.it</p>
